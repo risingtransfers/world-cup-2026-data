@@ -1,0 +1,642 @@
+[
+  {
+    "player": "Kylian Mbappé",
+    "slug": "k-mbappe",
+    "alternatives_url": "https://risingtransfers.com/en/players/k-mbappe/alternatives",
+    "similar_players": [
+      {
+        "name": "Vinicius Junior",
+        "slug": "vinicius",
+        "similarity": 0.856
+      },
+      {
+        "name": "Ousmane Dembélé",
+        "slug": "o-dembele",
+        "similarity": 0.854
+      },
+      {
+        "name": "Marcus Rashford",
+        "slug": "m-rashford",
+        "similarity": 0.851
+      },
+      {
+        "name": "Achraf Hakimi",
+        "slug": "a-hakimi-mouh",
+        "similarity": 0.842
+      },
+      {
+        "name": "Pierre-Emerick Aubameyang",
+        "slug": "p-aubameyang",
+        "similarity": 0.845
+      }
+    ]
+  },
+  {
+    "player": "Jude Bellingham",
+    "slug": "j-bellingham",
+    "alternatives_url": "https://risingtransfers.com/en/players/j-bellingham/alternatives",
+    "similar_players": [
+      {
+        "name": "Jobe Bellingham",
+        "slug": "j-bellingham-37581777",
+        "similarity": 0.89
+      },
+      {
+        "name": "Aurélien Tchouaméni",
+        "slug": "a-tchouameni",
+        "similarity": 0.865
+      },
+      {
+        "name": "Federico Valverde",
+        "slug": "f-valverde-dipetta",
+        "similarity": 0.863
+      },
+      {
+        "name": "Arda Güler",
+        "slug": "a-guler",
+        "similarity": 0.865
+      },
+      {
+        "name": "Carney Chukwuemeka",
+        "slug": "c-chukwuemeka",
+        "similarity": 0.865
+      }
+    ]
+  },
+  {
+    "player": "Vinicius Junior",
+    "slug": "vinicius",
+    "alternatives_url": "https://risingtransfers.com/en/players/vinicius/alternatives",
+    "similar_players": [
+      {
+        "name": "Rodrygo",
+        "slug": "r-silva-de-goes",
+        "similarity": 0.88
+      },
+      {
+        "name": "Kylian Mbappé",
+        "slug": "k-mbappe",
+        "similarity": 0.856
+      },
+      {
+        "name": "Eduardo Camavinga",
+        "slug": "e-camavinga",
+        "similarity": 0.853
+      },
+      {
+        "name": "Raphinha",
+        "slug": "raphinha-160258",
+        "similarity": 0.846
+      },
+      {
+        "name": "Federico Valverde",
+        "slug": "f-valverde-dipetta",
+        "similarity": 0.838
+      }
+    ]
+  },
+  {
+    "player": "Rodri",
+    "slug": "rodri",
+    "alternatives_url": "https://risingtransfers.com/en/players/rodri/alternatives",
+    "similar_players": [
+      {
+        "name": "Jay Matete",
+        "slug": "jay-matete",
+        "similarity": 0.979
+      },
+      {
+        "name": "Mohammed Odriss",
+        "slug": "m-odriss",
+        "similarity": 0.978
+      },
+      {
+        "name": "Gonçalo Nogueira",
+        "slug": "g-teixeira-nogueira",
+        "similarity": 0.978
+      },
+      {
+        "name": "Abdul Moro",
+        "slug": "a-salam-moro",
+        "similarity": 0.974
+      },
+      {
+        "name": "Joe Hodge",
+        "slug": "j-hodge",
+        "similarity": 0.974
+      }
+    ]
+  },
+  {
+    "player": "Erling Haaland",
+    "slug": "e-haaland",
+    "alternatives_url": "https://risingtransfers.com/en/players/e-haaland/alternatives",
+    "similar_players": [
+      {
+        "name": "Alexander Isak",
+        "slug": "a-isak",
+        "similarity": 0.859
+      },
+      {
+        "name": "Harry Kane",
+        "slug": "h-kane",
+        "similarity": 0.857
+      },
+      {
+        "name": "Dominic Calvert-Lewin",
+        "slug": "d-calvert-lewin",
+        "similarity": 0.843
+      },
+      {
+        "name": "Phil Foden",
+        "slug": "p-foden",
+        "similarity": 0.835
+      },
+      {
+        "name": "Benjamin Sesko",
+        "slug": "b-eko",
+        "similarity": 0.842
+      }
+    ]
+  },
+  {
+    "player": "Lionel Messi",
+    "slug": "l-messi",
+    "alternatives_url": "https://risingtransfers.com/en/players/l-messi/alternatives",
+    "similar_players": [
+      {
+        "name": "Jocelin Ta Bi",
+        "slug": "d-bi",
+        "similarity": 0.976
+      },
+      {
+        "name": "Roony Bardghji",
+        "slug": "r-bardghji",
+        "similarity": 0.976
+      },
+      {
+        "name": "Vinícius Lopes",
+        "slug": "v-lopes-da-silva",
+        "similarity": 0.975
+      },
+      {
+        "name": "R. Ghrieb",
+        "slug": "r-ghrieb",
+        "similarity": 0.975
+      },
+      {
+        "name": "Daan Rots",
+        "slug": "d-rots",
+        "similarity": 0.973
+      }
+    ]
+  },
+  {
+    "player": "Harry Kane",
+    "slug": "h-kane",
+    "alternatives_url": "https://risingtransfers.com/en/players/h-kane/alternatives",
+    "similar_players": [
+      {
+        "name": "Erling Haaland",
+        "slug": "e-haaland",
+        "similarity": 0.857
+      },
+      {
+        "name": "Serge Gnabry",
+        "slug": "s-gnabry",
+        "similarity": 0.841
+      },
+      {
+        "name": "Robert Lewandowski",
+        "slug": "r-lewandowski",
+        "similarity": 0.837
+      },
+      {
+        "name": "Martijn Kaars",
+        "slug": "m-kaars",
+        "similarity": 0.829
+      },
+      {
+        "name": "Benjamin Sesko",
+        "slug": "b-eko",
+        "similarity": 0.831
+      }
+    ]
+  },
+  {
+    "player": "Kevin De Bruyne",
+    "slug": "k-de-bruyne",
+    "alternatives_url": "https://risingtransfers.com/en/players/k-de-bruyne/alternatives",
+    "similar_players": [
+      {
+        "name": "Sebastian Nanasi",
+        "slug": "s-nanasi",
+        "similarity": 0.981
+      },
+      {
+        "name": "Efkan Bekiroğlu",
+        "slug": "e-bekiroglu",
+        "similarity": 0.978
+      },
+      {
+        "name": "Soner Aydoğdu",
+        "slug": "s-aydogdu",
+        "similarity": 0.976
+      },
+      {
+        "name": "Raul Paula",
+        "slug": "r-paula",
+        "similarity": 0.976
+      },
+      {
+        "name": "Samir Lagsir",
+        "slug": "s-lagsir",
+        "similarity": 0.975
+      }
+    ]
+  },
+  {
+    "player": "Achraf Hakimi",
+    "slug": "a-hakimi-mouh",
+    "alternatives_url": "https://risingtransfers.com/en/players/a-hakimi-mouh/alternatives",
+    "similar_players": [
+      {
+        "name": "Fabiano Parisi",
+        "slug": "f-parisi",
+        "similarity": 0.853
+      },
+      {
+        "name": "Kylian Mbappé",
+        "slug": "k-mbappe",
+        "similarity": 0.842
+      },
+      {
+        "name": "Emerson",
+        "slug": "e-palmieri-dos-santos",
+        "similarity": 0.845
+      },
+      {
+        "name": "Tiago Santos",
+        "slug": "t-santos-carvalho",
+        "similarity": 0.845
+      },
+      {
+        "name": "Arsène Kouassi",
+        "slug": "k-kouassi",
+        "similarity": 0.832
+      }
+    ]
+  },
+  {
+    "player": "Takefusa Kubo",
+    "slug": "t-kubo-525790",
+    "alternatives_url": "https://risingtransfers.com/en/players/t-kubo-525790/alternatives",
+    "similar_players": [
+      {
+        "name": "Lamine Yamal",
+        "slug": "l-yamal-nasraoui-ebana",
+        "similarity": 0.85
+      },
+      {
+        "name": "Mikel Oyarzabal",
+        "slug": "m-oyarzabal-ugarte",
+        "similarity": 0.856
+      },
+      {
+        "name": "Pedri",
+        "slug": "p-lopez",
+        "similarity": 0.856
+      },
+      {
+        "name": "Dani Ceballos",
+        "slug": "d-ceballos-fernandez",
+        "similarity": 0.853
+      },
+      {
+        "name": "Javi Puado",
+        "slug": "j-puado-diaz",
+        "similarity": 0.852
+      }
+    ]
+  },
+  {
+    "player": "Christian Pulisic",
+    "slug": "c-pulisic",
+    "alternatives_url": "https://risingtransfers.com/en/players/c-pulisic/alternatives",
+    "similar_players": [
+      {
+        "name": "Weston McKennie",
+        "slug": "w-mckennie",
+        "similarity": 0.862
+      },
+      {
+        "name": "Charles De Ketelaere",
+        "slug": "c-de-ketelaere",
+        "similarity": 0.849
+      },
+      {
+        "name": "Christopher Nkunku",
+        "slug": "c-nkunku",
+        "similarity": 0.845
+      },
+      {
+        "name": "Mario Pašalić",
+        "slug": "m-paali",
+        "similarity": 0.844
+      },
+      {
+        "name": "Sergiño Dest",
+        "slug": "s-dest",
+        "similarity": 0.834
+      }
+    ]
+  },
+  {
+    "player": "Heung-min Son",
+    "slug": "h-son",
+    "alternatives_url": "https://risingtransfers.com/en/players/h-son/alternatives",
+    "similar_players": [
+      {
+        "name": "Gonçalo Borges",
+        "slug": "g-albuquerque-borges",
+        "similarity": 0.983
+      },
+      {
+        "name": "Rio Ngumoha",
+        "slug": "r-ngumoha",
+        "similarity": 0.981
+      },
+      {
+        "name": "Roony Bardghji",
+        "slug": "r-bardghji",
+        "similarity": 0.98
+      },
+      {
+        "name": "Jota Silva",
+        "slug": "j-ferreira-silva",
+        "similarity": 0.98
+      },
+      {
+        "name": "Ángel Alarcón",
+        "slug": "angel-galiot",
+        "similarity": 0.979
+      }
+    ]
+  },
+  {
+    "player": "Alphonso Davies",
+    "slug": "a-davies",
+    "alternatives_url": "https://risingtransfers.com/en/players/a-davies/alternatives",
+    "similar_players": [
+      {
+        "name": "Raphaël Guerreiro",
+        "slug": "r-guerreiro",
+        "similarity": 0.984
+      },
+      {
+        "name": "Max Finkgräfe",
+        "slug": "m-finkgrafe",
+        "similarity": 0.984
+      },
+      {
+        "name": "Olivier Deman",
+        "slug": "o-deman",
+        "similarity": 0.983
+      },
+      {
+        "name": "Anthony Caci",
+        "slug": "a-caci",
+        "similarity": 0.976
+      },
+      {
+        "name": "Luca Bolay",
+        "slug": "l-bolay",
+        "similarity": 0.976
+      }
+    ]
+  },
+  {
+    "player": "Michael Olise",
+    "slug": "m-olise",
+    "alternatives_url": "https://risingtransfers.com/en/players/m-olise/alternatives",
+    "similar_players": [
+      {
+        "name": "Karim Adeyemi",
+        "slug": "k-adeyemi",
+        "similarity": 0.863
+      },
+      {
+        "name": "Carney Chukwuemeka",
+        "slug": "c-chukwuemeka",
+        "similarity": 0.86
+      },
+      {
+        "name": "Noah Okafor",
+        "slug": "n-okafor",
+        "similarity": 0.859
+      },
+      {
+        "name": "Fábio Vieira",
+        "slug": "f-ferreira-vieira",
+        "similarity": 0.859
+      },
+      {
+        "name": "Julien Duranville",
+        "slug": "j-duranville",
+        "similarity": 0.858
+      }
+    ]
+  },
+  {
+    "player": "Lamine Yamal",
+    "slug": "l-yamal-nasraoui-ebana",
+    "alternatives_url": "https://risingtransfers.com/en/players/l-yamal-nasraoui-ebana/alternatives",
+    "similar_players": [
+      {
+        "name": "Alejandro Balde",
+        "slug": "a-balde-martinez",
+        "similarity": 0.875
+      },
+      {
+        "name": "Pedri",
+        "slug": "p-lopez",
+        "similarity": 0.865
+      },
+      {
+        "name": "Arda Güler",
+        "slug": "a-guler",
+        "similarity": 0.864
+      },
+      {
+        "name": "Fermín López",
+        "slug": "f-lopez-marin",
+        "similarity": 0.86
+      },
+      {
+        "name": "Alberto Moleiro",
+        "slug": "a-moleiro-gonzalez",
+        "similarity": 0.855
+      }
+    ]
+  },
+  {
+    "player": "Endrick",
+    "slug": "e-moreira-de-sousa",
+    "alternatives_url": "https://risingtransfers.com/en/players/e-moreira-de-sousa/alternatives",
+    "similar_players": [
+      {
+        "name": "Mason Greenwood",
+        "slug": "m-greenwood",
+        "similarity": 0.843
+      },
+      {
+        "name": "Kylian Mbappé",
+        "slug": "k-mbappe",
+        "similarity": 0.839
+      },
+      {
+        "name": "Estêvão",
+        "slug": "e-almeida-de-oliveira-goncalves",
+        "similarity": 0.846
+      },
+      {
+        "name": "Vinicius Junior",
+        "slug": "vinicius",
+        "similarity": 0.837
+      },
+      {
+        "name": "Arnaud Kalimuendo",
+        "slug": "a-muinga",
+        "similarity": 0.842
+      }
+    ]
+  },
+  {
+    "player": "João Neves",
+    "slug": "j-goncalves-neves",
+    "alternatives_url": "https://risingtransfers.com/en/players/j-goncalves-neves/alternatives",
+    "similar_players": [
+      {
+        "name": "Bruno Guimarães",
+        "slug": "b-guimaraes-rodriguez-moura",
+        "similarity": 0.859
+      },
+      {
+        "name": "João Gomes",
+        "slug": "gomes",
+        "similarity": 0.859
+      },
+      {
+        "name": "André Gomes",
+        "slug": "a-tavares-gomes",
+        "similarity": 0.858
+      },
+      {
+        "name": "André",
+        "slug": "a-trindade-da-costa-neto",
+        "similarity": 0.856
+      },
+      {
+        "name": "Pedro Neto",
+        "slug": "p-lomba-neto",
+        "similarity": 0.856
+      }
+    ]
+  },
+  {
+    "player": "Xavi Simons",
+    "slug": "x-simons",
+    "alternatives_url": "https://risingtransfers.com/en/players/x-simons/alternatives",
+    "similar_players": [
+      {
+        "name": "Moses Simon",
+        "slug": "m-simon",
+        "similarity": 0.86
+      },
+      {
+        "name": "Mike Tresor",
+        "slug": "m-ndayishimiye",
+        "similarity": 0.851
+      },
+      {
+        "name": "Florian Wirtz",
+        "slug": "f-wirtz",
+        "similarity": 0.849
+      },
+      {
+        "name": "Anton Stach",
+        "slug": "a-stach",
+        "similarity": 0.846
+      },
+      {
+        "name": "Brenden Aaronson",
+        "slug": "b-aaronson",
+        "similarity": 0.845
+      }
+    ]
+  },
+  {
+    "player": "Florian Wirtz",
+    "slug": "f-wirtz",
+    "alternatives_url": "https://risingtransfers.com/en/players/f-wirtz/alternatives",
+    "similar_players": [
+      {
+        "name": "Rayan Cherki",
+        "slug": "m-cherki",
+        "similarity": 0.872
+      },
+      {
+        "name": "Bryan Mbeumo",
+        "slug": "b-mbeumo",
+        "similarity": 0.858
+      },
+      {
+        "name": "Martin Ødegaard",
+        "slug": "m-odegaard-26823",
+        "similarity": 0.863
+      },
+      {
+        "name": "Dominik Szoboszlai",
+        "slug": "d-szoboszlai",
+        "similarity": 0.855
+      },
+      {
+        "name": "Justin Kluivert",
+        "slug": "j-kluivert",
+        "similarity": 0.862
+      }
+    ]
+  },
+  {
+    "player": "Josko Gvardiol",
+    "slug": "j-gvardiol",
+    "alternatives_url": "https://risingtransfers.com/en/players/j-gvardiol/alternatives",
+    "similar_players": [
+      {
+        "name": "Marc Guéhi",
+        "slug": "m-guehi",
+        "similarity": 0.847
+      },
+      {
+        "name": "William Saliba",
+        "slug": "w-saliba",
+        "similarity": 0.844
+      },
+      {
+        "name": "Malick Thiaw",
+        "slug": "m-thiaw",
+        "similarity": 0.844
+      },
+      {
+        "name": "Jakub Kiwior",
+        "slug": "j-kiwior",
+        "similarity": 0.843
+      },
+      {
+        "name": "Micky van de Ven",
+        "slug": "m-van-de-ven",
+        "similarity": 0.841
+      }
+    ]
+  }
+]
